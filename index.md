@@ -28,3 +28,7 @@ I am studying computer engineering at PNU parand University.
 
 ### Other Accounts
 -Gmail: mlimnsouri@gmail.com
+
+- Quera Profile: <a href="https://quera.ir/profile/mlimnsouri">My Profile</a>
+
+- Persian Resume: <a href="https://melikamansouri.github.io/resume-FA/"> Resume </a>
